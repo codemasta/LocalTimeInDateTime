@@ -1,0 +1,6 @@
+c:\users\compiler\documents\visual studio 2013\Projects\DateTimeOffSet Demo\DateTimeOffSet Demo\bin\Debug\DateTimeOffSet Demo.exe.config
+c:\users\compiler\documents\visual studio 2013\Projects\DateTimeOffSet Demo\DateTimeOffSet Demo\bin\Debug\DateTimeOffSet Demo.exe
+c:\users\compiler\documents\visual studio 2013\Projects\DateTimeOffSet Demo\DateTimeOffSet Demo\bin\Debug\DateTimeOffSet Demo.pdb
+c:\users\compiler\documents\visual studio 2013\Projects\DateTimeOffSet Demo\DateTimeOffSet Demo\obj\Debug\DateTimeOffSet Demo.csprojResolveAssemblyReference.cache
+c:\users\compiler\documents\visual studio 2013\Projects\DateTimeOffSet Demo\DateTimeOffSet Demo\obj\Debug\DateTimeOffSet Demo.exe
+c:\users\compiler\documents\visual studio 2013\Projects\DateTimeOffSet Demo\DateTimeOffSet Demo\obj\Debug\DateTimeOffSet Demo.pdb
